@@ -1,0 +1,9 @@
+#canvas {
+  margin: auto;
+  background: #ccc;
+  width: 100%;
+}
+
+.btn-disabled {
+  color: #ffffff !important;
+} /* cant click on brightness btn/ secondary-btn */
